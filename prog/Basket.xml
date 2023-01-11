@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<product>
+  <basket>
+    <product>Стиральный порошок кг</product>
+    <quantity>0</quantity>
+    <productType>Бытовая химия</productType>
+  </basket>
+  <basket>
+    <product>test</product>
+    <quantity>0</quantity>
+    <productType>Мебель</productType>
+  </basket>
+  <basket>
+    <product>test</product>
+    <quantity>0</quantity>
+    <productType>Мебель</productType>
+  </basket>
+</product>

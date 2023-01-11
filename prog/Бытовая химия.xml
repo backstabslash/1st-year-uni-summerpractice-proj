@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<products>
+  <product>
+    <name>Стиральный порошок кг</name>
+    <priceUSD>2</priceUSD>
+    <priceUAH>54,5986</priceUAH>
+    <quantity>196</quantity>
+    <type>Бытовая химия</type>
+  </product>
+  <product>
+    <name>Мыло 1л</name>
+    <priceUSD>2</priceUSD>
+    <priceUAH>54,5986</priceUAH>
+    <quantity>58</quantity>
+    <type>Бытовая химия</type>
+  </product>
+</products>

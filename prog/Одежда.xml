@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<products>
+  <product>
+    <name>Рубашка</name>
+    <priceUSD>3</priceUSD>
+    <priceUAH>81,8979</priceUAH>
+    <quantity>0</quantity>
+    <type>Одежда</type>
+  </product>
+</products>

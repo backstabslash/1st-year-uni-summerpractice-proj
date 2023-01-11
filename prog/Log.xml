@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<event>
+  <event>
+    <event_name>Добавление нового товара</event_name>
+    <date>08.07.2021 22:15:15</date>
+    <user>admin1</user>
+    <pre_condition>
+    </pre_condition>
+    <condition>Шкаф</condition>
+  </event>
+  <event>
+    <event_name>Покупка товара</event_name>
+    <date>08.07.2021 22:19:34</date>
+    <user>asdfg</user>
+    <pre_condition>Стиральный порошок кг количество до: 17 прибыль до: 28165,04000000</pre_condition>
+    <condition>Стиральный порошок кг количество после: 15 прибыль после: 28169,04000000</condition>
+  </event>
+  <event>
+    <event_name>Добавление нового товара</event_name>
+    <date>08.07.2021 22:26:17</date>
+    <user>admin1</user>
+    <pre_condition>
+    </pre_condition>
+    <condition>Кресло110</condition>
+  </event>
+  <event>
+    <event_name>Изменение коэффициента</event_name>
+    <date>08.07.2021 22:35:14</date>
+    <user>admin1</user>
+    <pre_condition>1,8</pre_condition>
+    <condition>2</condition>
+  </event>
+  <event>
+    <event_name>Покупка товара</event_name>
+    <date>08.07.2021 23:52:23</date>
+    <user>klop</user>
+    <pre_condition>Диван количество до: 14 прибыль до: 28169,04000000</pre_condition>
+    <condition>Диван количество после: 9 прибыль после: 28669,04000000</condition>
+  </event>
+  <event>
+    <event_name>Покупка товара</event_name>
+    <date>08.07.2021 23:56:17</date>
+    <user>klop</user>
+    <pre_condition>Стиральный порошок кг количество до: 15 прибыль до: 28669,04000000</pre_condition>
+    <condition>Стиральный порошок кг количество после: 10 прибыль после: 28679,04000000</condition>
+  </event>
+  <event>
+    <event_name>Покупка товара</event_name>
+    <date>08.07.2021 23:56:17</date>
+    <user>klop</user>
+    <pre_condition>Стиральный порошок кг количество до: 10 прибыль до: 28669,04000000</pre_condition>
+    <condition>Стиральный порошок кг количество после: 5 прибыль после: 28679,04000000</condition>
+  </event>
+  <event>
+    <event_name>Закупка товара</event_name>
+    <date>09.07.2021 2:49:07</date>
+    <user>admin1</user>
+    <pre_condition>Стол количество до: 0 прибыль до: 29099,04000000</pre_condition>
+    <condition>Стол количество после: 2 прибыль после: 29299,04000000</condition>
+  </event>
+  <event>
+    <event_name>Закупка товара</event_name>
+    <date>09.07.2021 2:52:35</date>
+    <user>admin1</user>
+    <pre_condition>Стул количество до: 0 прибыль до: 29099,04000000</pre_condition>
+    <condition>Стул количество после: 20 прибыль после: 30099,04000000</condition>
+  </event>
+  <event>
+    <event_name>Закупка товара</event_name>
+    <date>09.07.2021 2:54:36</date>
+    <user>admin1</user>
+    <pre_condition>Кресло количество до: 0 прибыль до: 29099,04000000</pre_condition>
+    <condition>Кресло количество после: 1 прибыль после: 29209,04000000</condition>
+  </event>
+  <event>
+    <event_name>Закупка товара</event_name>
+    <date>09.07.2021 2:54:51</date>
+    <user>admin1</user>
+    <pre_condition>Мыло 1л количество до: 53 прибыль до: 29099,04000000</pre_condition>
+    <condition>Мыло 1л количество после: 58 прибыль после: 29109,04000000</condition>
+  </event>
+  <event>
+    <event_name>Закупка товара</event_name>
+    <date>09.07.2021 2:55:15</date>
+    <user>admin1</user>
+    <pre_condition>Шкаф количество до: 0 прибыль до: 29099,04000000</pre_condition>
+    <condition>Шкаф количество после: 5 прибыль после: 29849,04000000</condition>
+  </event>
+  <event>
+    <event_name>Добавление категориии :</event_name>
+    <date>10.07.2021 16:37:53</date>
+    <user>admin1</user>
+    <pre_condition>
+    </pre_condition>
+    <condition>Новая категория test</condition>
+  </event>
+  <event>
+    <event_name>Удаление категориии</event_name>
+    <date>10.07.2021 16:38:00</date>
+    <user>admin1</user>
+    <pre_condition>Новая категория test</pre_condition>
+    <condition>
+    </condition>
+  </event>
+  <event>
+    <event_name>Добавление нового товара</event_name>
+    <date>10.07.2021 16:54:40</date>
+    <user>admin1</user>
+    <pre_condition>
+    </pre_condition>
+    <condition>test цена товара : 100</condition>
+  </event>
+  <event>
+    <event_name>Добавление нового товара</event_name>
+    <date>10.07.2021 16:54:42</date>
+    <user>admin1</user>
+    <pre_condition>
+    </pre_condition>
+    <condition>test2 цена товара : 100</condition>
+  </event>
+  <event>
+    <event_name>Добавление нового товара</event_name>
+    <date>10.07.2021 16:54:45</date>
+    <user>admin1</user>
+    <pre_condition>
+    </pre_condition>
+    <condition>test3 цена товара : 100</condition>
+  </event>
+  <event>
+    <event_name>Добавление нового товара</event_name>
+    <date>10.07.2021 16:54:47</date>
+    <user>admin1</user>
+    <pre_condition>
+    </pre_condition>
+    <condition>test4 цена товара : 100</condition>
+  </event>
+  <event>
+    <event_name>Закупка товара</event_name>
+    <date>10.07.2021 16:55:21</date>
+    <user>admin1</user>
+    <pre_condition>test количество до: 0 прибыль до: 29099,04000000</pre_condition>
+    <condition>test количество после: 100 прибыль после: 39099,04000000</condition>
+  </event>
+  <event>
+    <event_name>Изменение коэффициента</event_name>
+    <date>11.07.2021 23:02:50</date>
+    <user>admin1</user>
+    <pre_condition>2</pre_condition>
+    <condition>2,1</condition>
+  </event>
+</event>
